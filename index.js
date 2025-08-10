@@ -48,7 +48,7 @@ const projects = [
 
   " ",
   " ",
-  "",
+  "Tic Tac Toe",
   "Digital Clock",
   "Random Password Generator",
   "Doodle Jump Game",
